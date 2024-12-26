@@ -11,7 +11,6 @@ The focus is on hands-on coding challenges that involve using JavaScript for web
   The results are logged to the console using JavaScript's `Math.pow()` function. 
   It allows for easy testing and exploring of mathematical operations in JavaScript.
 
-Let me know if you need further adjustments!
 - **Task 2: Set Color and Font Size**
   - A simple web page that allows the user to change the color and font size of paragraphs.
   
