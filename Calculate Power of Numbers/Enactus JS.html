@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+<script>
+
+function calculatePower(first, power) {
+    return Math.pow(first, power);
+}
+const nums = (prompt("How much numbers you want to get their power ?"));
+const numbersAndPowers = [];
+
+for (let i = 0; i < nums; i++) {
+    const first = (prompt("Enter the number"));
+    const power = (prompt("Enter the power of the number"));
+    numbersAndPowers.push({ first, power });
+}
+numbersAndPowers.forEach(pair => {
+    const result = calculatePower(pair.first, pair.power);
+    console.log(`${pair.first} raised to the power of ${pair.power} = ${result}`);
+});
+
+</script>
+</html>
