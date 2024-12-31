@@ -22,5 +22,8 @@ The focus is on hands-on coding challenges that involve using JavaScript for web
 ## Installation
 Clone this repository to your local machine:
 
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 ```bash
 git clone https://github.com/YazanFAlagan/Learning-JS.git
