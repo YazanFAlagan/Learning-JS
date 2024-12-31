@@ -12,6 +12,12 @@ The focus is on hands-on coding challenges that involve using JavaScript for web
 
 - **Task 2: Set Color and Font Size**
   - A simple web page that allows the user to change the color and font size of paragraphs.
+
+- **Task 3: Password Strength Level**
+  - This task evaluates the password against five requirements (length, numeric characters, lowercase, special symbols, and uppercase letters) and classifies the password strength into three levels:
+    - **Low**: Red border and text "Low" if 2 or fewer conditions are met.
+    - **Medium**: Orange border and text "Medium" if 3 to 4 conditions are met.
+    - **High**: Green border and text "High" if all 5 conditions are met.
   
 ## Installation
 Clone this repository to your local machine:
