@@ -1,0 +1,10 @@
+let turn = 'x';
+
+function game(id) 
+{
+    let element = document.getElementById(id);
+    if (turn === x && element.innerHTML == '')
+    {
+        element.innerHTML = 'X';
+    }
+}
