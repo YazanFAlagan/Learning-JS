@@ -18,6 +18,14 @@ The focus is on hands-on coding challenges that involve using JavaScript for web
     - **Low**: Red border and text "Low" if 2 or fewer conditions are met.
     - **Medium**: Orange border and text "Medium" if 3 to 4 conditions are met.
     - **High**: Green border and text "High" if all 5 conditions are met.
+
+- **Task 4: Simple XO Game with JS
+  - This task implements the classic Tic-Tac-Toe (XO) game using JavaScript with the following features:
+- **Game Setup**: A 3x3 grid where players take turns marking X or O.
+- **Winning Conditions**: The first player to align three marks horizontally, vertically, or diagonally wins.
+- **Game Reset**: After a win, the game resets for a new round.
+- **Tech Used**: JavaScript for handling game logic and DOM interactions.
+
   
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
